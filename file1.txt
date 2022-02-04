@@ -4,4 +4,6 @@ Hello World :)
 making more changes here
 
 
-Added temprature feature.
+Added temperature feature.
+
+Adding fahrenheit to celsius and vice versa option.
